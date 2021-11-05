@@ -1,0 +1,1 @@
+SELECT * FROM banco_clientes.pessoass;
